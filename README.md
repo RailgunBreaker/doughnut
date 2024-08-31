@@ -5,4 +5,4 @@ The doughnut figure was created by me using Python; however, I would like to app
 ## Something Beforehand
 The variables are counted from `0-1.0`, representing a percentage of the country's variable situation, so you need to convert your data into percentages before using the template. An example here is North Korea.
 
-`ecological_ceiling.` can exceed `1`, and the "over" section will become red, representing the exceeding session in the doughnut figure.
+`ecological_ceiling` can exceed `1`, and the "over" section will become red, representing the exceeding session in the doughnut figure.
